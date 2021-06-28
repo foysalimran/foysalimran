@@ -1,6 +1,6 @@
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+I am a MERN Stack Developer from Bangladesh
+- 🔭 Working on multiple MERN projects
 - 🌱 Learning design patterns in depth
 <br>
 
