@@ -1,6 +1,6 @@
 ### Hello World 👋
-I am a MERN Stack Developer from Bangladesh
-- 🔭 Working on multiple MERN projects
+I am a WordPress Theme & Plugin Developer from Bangladesh
+- 🔭 Working on multiple WordPress Plugin projects
 - 🌱 Learning design patterns in depth
 <br>
 
